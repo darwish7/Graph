@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1591475533 source:e:\ziad\c\graphadjlist\graph\graph.c
+	<stdio.h>
+	<stdlib.h>
+	"Graph.h"
+
+1591434079 e:\ziad\c\graphadjlist\graph\graph.h
+
+1591455757 source:e:\ziad\c\graphadjlist\graph\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"Q.h"
+	"Q.c"
+	"Graph.h"
+
+1591470228 e:\ziad\c\graphadjlist\graph\q.h
+
+1591470231 e:\ziad\c\graphadjlist\graph\q.c
+	"Q.h"
+	<stdio.h>
+	<stdlib.h>
+
